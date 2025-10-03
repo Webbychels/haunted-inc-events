@@ -10,3 +10,11 @@ haunted-inc-events/
 ├── .gitignore
 └── assets/
 	└── haunted_logo.png # Logo image
+
+## Setup & Deployment Instructions
+
+1. **Clone repository**
+
+```bash
+git clone https://github.com/YOUR_USERNAME/haunted-inc-events.git
+cd haunted-inc-events
