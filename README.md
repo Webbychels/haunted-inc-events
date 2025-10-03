@@ -9,4 +9,4 @@ haunted-inc-events/
 ├── README.md # Project description & setup instructions
 ├── .gitignore
 └── assets/
-  └── haunted_logo.png # Logo image
+	└── haunted_logo.png # Logo image
