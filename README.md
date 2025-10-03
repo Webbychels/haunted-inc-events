@@ -5,8 +5,8 @@ Styled with Google Fonts and loads event data dynamically from a backend (Google
 
 ## Project structure
 haunted-inc-events/ 
-├── index.html # Main web page 
-├── README.md # Project description & setup instructions 
-├── .gitignore 
-└── assets/ 
+├── index.html # Main web page
+├── README.md # Project description & setup instructions
+├── .gitignore
+└── assets/
   └── haunted_logo.png # Logo image
