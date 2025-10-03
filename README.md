@@ -1,3 +1,4 @@
+
 # Haunted Inc. Events
 
 A spooky, stylish static site displaying Haunted Inc. events.  
